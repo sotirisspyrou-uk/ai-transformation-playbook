@@ -27,13 +27,19 @@ For enterprise-wide deployment or commercial redistribution rights:
 - Custom licensing agreements available for large organizations
 - Volume discounts and support packages available
 
+### Demo Work and Educational Disclaimer
+
+**DEMONSTRATION PURPOSE:** This AI Transformation Playbook is provided primarily for **demonstration and educational purposes** to showcase AI transformation expertise and strategic thinking capabilities. While based on industry best practices and real-world experience, this is **portfolio demonstration work**.
+
+**NOT PRODUCTION-READY:** This content is **not intended for production use** without proper customization, validation, and adaptation to specific organizational contexts and requirements.
+
 ### Liability & Warranty Disclaimer
 
 **PROVIDED "AS IS" BASIS:** This playbook is provided on an "as is" basis without warranties of any kind, either express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.
 
 **LIMITATION OF LIABILITY:** In no event shall the authors, contributors, or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the use of this playbook or the performance or other dealings in the playbook.
 
-**PROFESSIONAL JUDGMENT REQUIRED:** Users must exercise professional judgment when applying frameworks and methodologies. Results may vary based on organizational context, implementation quality, and market conditions.
+**PROFESSIONAL JUDGMENT REQUIRED:** Users must exercise professional judgment when applying frameworks and methodologies. Results may vary based on organizational context, implementation quality, and market conditions. Organizations should consult with qualified professionals before implementing any transformation strategies.
 
 ### Open Source Components
 
